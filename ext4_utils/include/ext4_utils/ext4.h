@@ -13,6 +13,7 @@
 #define _EXT4_H
 
 #include <sys/types.h>
+#include <linux/types.h>
 
 #undef EXT4FS_DEBUG
 
