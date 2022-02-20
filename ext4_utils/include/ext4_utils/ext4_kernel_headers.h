@@ -19,7 +19,7 @@
 
 #include <stdint.h>
 
-#ifdef __BIONIC__
+#if 1
 #include <sys/types.h>
 #else
 #define __le64 uint64_t
